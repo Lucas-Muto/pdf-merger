@@ -17,7 +17,7 @@ O **PDF Merger** é uma ferramenta desenvolvida para resolver o problema comum d
 
 ## ✨ Funcionalidades
 
-- ✅ Junta até 80 arquivos PDF automaticamente
+- ✅ Junta arquivos infinitos PDF automaticamente
 - ✅ Ordem sequencial garantida (1.pdf, 2.pdf, ..., 80.pdf)
 - ✅ Interface simples via linha de comando
 - ✅ Arquivo de saída otimizado
